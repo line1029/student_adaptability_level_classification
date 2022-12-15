@@ -7,3 +7,5 @@
 ## Dataset
 > https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
+## Kaggle Notebook
+> https://www.kaggle.com/code/abelian1029/students-adaptability-tuning-hyperopt-xai
